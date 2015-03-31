@@ -16,6 +16,10 @@
   </head>
   <body>
 
+    <div class="container">
+      <h3>Jonathan Velazquez</h3>
+    </div>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/script.js"></script>
